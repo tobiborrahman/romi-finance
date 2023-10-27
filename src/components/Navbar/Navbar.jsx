@@ -11,7 +11,7 @@ const Navbar = () => {
 			</div>
 			<div>
 				<nav>
-					<ul className="flex justify-center items-center gap-9">
+					<ul className="flex justify-center items-center gap-9 mx-5">
 						<li>Home</li>
 						<li>Dashboard</li>
 						<li>NFT</li>

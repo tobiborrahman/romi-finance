@@ -18,7 +18,7 @@ const Banner = () => {
 					</button>
 				</div>
 				<div className="flex justify-between items-center pt-20">
-					<div className="flex justify-left w-[370px] items-center border border-gray-800 py-7 rounded-md">
+					<div className="flex justify-left w-[370px] items-center border border-gray-800 py-7 rounded-md shadow-lg">
 						<div className="px-10">
 							<img
 								src="https://zomi.finance/static/media/ic_trading.2c53815a.svg"
@@ -30,7 +30,7 @@ const Banner = () => {
 							<h3 className="text-3xl font-semibold">$0</h3>
 						</div>
 					</div>
-					<div className="flex justify-left w-[370px] items-center border border-gray-800 py-7 pr-24 rounded-md">
+					<div className="flex justify-left w-[370px] items-center border border-gray-800 py-7 pr-24 rounded-md shadow-lg">
 						<div className="px-10">
 							<img
 								src="https://zomi.finance/static/media/ic_stats.f0a18011.svg"
@@ -42,7 +42,7 @@ const Banner = () => {
 							<h3 className="text-3xl font-semibold">$0</h3>
 						</div>
 					</div>
-					<div className="flex justify-left w-[370px] items-center border border-gray-800 py-7 pr-24 rounded-md">
+					<div className="flex justify-left w-[370px] items-center border border-gray-800 py-7 pr-24 rounded-md shadow-lg">
 						<div className="px-10">
 							<img
 								src="https://zomi.finance/static/media/ic_totaluser.ae09b310.svg"
